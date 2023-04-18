@@ -1,2 +1,2 @@
-# Cross-Switch-Ghana-Python
-Cross Switch Ghana Python Package
+# CsPay-Python
+CsPay Payment Gateway Python Package
